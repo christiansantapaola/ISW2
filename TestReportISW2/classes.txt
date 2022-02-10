@@ -1,0 +1,11 @@
+JCS
+org.apache.jcs.engine.EventQueueConcurrentLoadTest
+org.apache.jcs.engine.memory.lru.LRUMemoryCacheConcurrentUnitTest
+
+BOOKKEEPER
+org.apache.bookkeeper.bookie.storage.ldb.ReadCache
+org.apache.bookkeeper.bookie.storage.ldb.WriteCache
+
+OPENJPA
+org.apache.openjpa.lib.util.StringDistance
+org.apache.openjpa.util.ProxyManagerImpl
